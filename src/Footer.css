@@ -1,0 +1,37 @@
+.footer_Container{
+    background-color: #293b4a;
+    color: white;
+   
+    padding: 20px;
+}
+.firstFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-bottom: 1px solid rgb(98, 99, 100);
+    padding: 15px;
+}
+.footer{
+    text-align: left;
+    font-size: 80%;
+}
+.footer p{
+    margin: 6px;
+    cursor: pointer;
+}
+.footer_header_logo{
+    width: 10%;
+   
+}
+.secondFooter{
+    padding: 20px;
+}
+.footer_country{
+    display: flex;
+    justify-content: center;
+}
+.footer_country p{
+    margin: 5px;
+    font-size: 80%;
+    cursor: pointer;
+}
